@@ -1,0 +1,24 @@
+p{
+	font-size: 30px;
+	color: white;
+}
+
+li{
+	font-size: 25px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h2{
+	/* font-size: 40px; */
+	/* font-family: 'Prosto One', cursive; */
+}
+
+.hh h2{
+	text-align: center;
+}
+
+.rows{
+	display: flex;
+	justify-content: space-between;
+	padding: 30px;
+}

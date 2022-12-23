@@ -1,0 +1,35 @@
+.blog__post {
+	max-width: 800px;
+	text-align: center;
+	margin: 10px auto;
+	background-color:rgb(218, 216, 214);
+	padding: 30px;
+	border-radius: 17px;
+	border: 1px solid black;
+}
+.main{
+	text-align: center;
+}
+.author__name {
+	font-size: 26px;
+	text-align: left;
+	display: flex;
+}
+
+.personal__info{
+	margin: 0 0px 0 20px ;
+}
+.date__time {
+	font-size: 18px;
+}
+.header_ {
+	font-size: 35px;	
+}
+.text {
+	text-align: left;
+	font-size: 24px;
+}
+.ava {
+}
+.name {
+}
